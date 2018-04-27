@@ -1,8 +1,4 @@
 # Kanban-Lightning-component
-<a href="https://githubsfdeploy.herokuapp.com?owner=alekyareddy30&repo=fruit ">
-  <img alt="Deploy to Salesforce"
-       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
-</a>
 <a href="https://githubsfdeploy.herokuapp.com?owner=alekyareddy30&repo=fruit">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
